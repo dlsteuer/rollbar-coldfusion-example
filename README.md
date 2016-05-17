@@ -1,1 +1,1 @@
-# rollbar-coldfusion-example
+# Example of calling Rollbar's api from Coldfusion
